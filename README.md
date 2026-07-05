@@ -627,9 +627,9 @@ Feel free to use the project for learning and educational purposes.
 
 GitHub: https://github.com/shekhawat18
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/shekhawat1807
 
-Email: *(Add your email address here)*
+Email: shekhawatharshvardhan5@gmail.com
 
 ---
 
